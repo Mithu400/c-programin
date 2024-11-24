@@ -1,0 +1,15 @@
+// subraction of two numbers
+
+# include <stdio.h>
+int main()
+{
+int a=90;
+ int  b=50;
+   printf("subration of a-b is : %d",a-b);
+   return 0;
+}
+
+______________________________________________
+OUTPUT
+       subration of a-b is : 40
+______________________________________________
