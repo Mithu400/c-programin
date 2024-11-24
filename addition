@@ -1,0 +1,23 @@
+//Addition of two number
+question:Kalki wrote a book Ponniyin Selvan and released 50, 525 copies.
+Since the book was popular among the readers, the publishers decided to publish a second edition with 40, 399 copies.
+Calculate the total number of copies published.
+#include <stdio.h>
+int main()
+{
+ int a=40399;
+ int  b=50525;
+   printf("first edtion sold  is %d",b);
+ printf("\nsecond edition sold is %d",a);
+   printf("\ntotal no of copies = ");
+   
+   printf("%d",a+b); 
+   return 0;
+}
+________________________________________________________
+OUTPUT
+         first edtion sold  is 50525
+         second edition sold is 40399
+        total no of copies = 90924
+
+___________________________________________________________
