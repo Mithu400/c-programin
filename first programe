@@ -1,0 +1,14 @@
+//My first programe
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Mithuna@ksrct.in \nHappy to start c programing");
+     return 0;
+}
+-___________________________________________________________
+OUTPUT
+       Mithuna@ksrct.in 
+       Happy to start c programing
+______________________________________________________________
